@@ -79,7 +79,7 @@ Before you start, ensure you have the following:
 
 ## Setup Video
 
-[Setup Video.mp4](Resources%2FSetup%20Video.mp4)
+https://drive.google.com/file/d/1bRmr0bUXcfKmH3zbXZi3FqNnjOy-cR8-/view?usp=sharing
 
 ---
 ## Project Setup
