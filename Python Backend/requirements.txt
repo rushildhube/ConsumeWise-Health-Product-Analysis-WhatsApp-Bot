@@ -1,0 +1,6 @@
+buildtools
+flask
+ngrok
+requests
+scikit-learn
+pandas

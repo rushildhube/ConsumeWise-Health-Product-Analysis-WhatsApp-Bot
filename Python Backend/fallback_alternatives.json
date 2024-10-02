@@ -1,0 +1,460 @@
+{
+    "En:beverages": [
+      {
+        "product_name": "Coconut Water Harmless Harvest",
+        "calories": 90,
+        "fats": 0,
+        "sodium": 0.025,
+        "nova_group": 1
+      },
+      {
+        "product_name": "Green Tea (Sugar-Free)",
+        "calories": 0,
+        "fats": 0,
+        "sodium": 0.001,
+        "nova_group": 1
+      },
+      {
+        "product_name": "LaCroix Sparkling Water",
+        "calories": 0,
+        "fats": 0,
+        "sodium": 0,
+        "nova_group": 1
+    },
+    {
+        "product_name": "GT\u2019s Kombucha",
+        "calories": 60,
+        "fats": 0,
+        "sodium": 15,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Pure Leaf Unsweetened Tea",
+        "calories": 0,
+        "fats": 0,
+        "sodium": 5,
+        "nova_group": 1
+    },
+    {
+        "product_name": "Vita Coco Coconut Water",
+        "calories": 60,
+        "fats": 0.5,
+        "sodium": 40,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Suja Juice",
+        "calories": 90,
+        "fats": 0,
+        "sodium": 50,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Simply Lemonade",
+        "calories": 120,
+        "fats": 0,
+        "sodium": 0,
+        "nova_group": 3
+    },
+    {
+        "product_name": "Herbal Tea (Yogi Tea)",
+        "calories": 0,
+        "fats": 0,
+        "sodium": 0,
+        "nova_group": 1
+    },
+    {
+        "product_name": "Almond Milk (Unsweetened)",
+        "calories": 30,
+        "fats": 2.5,
+        "sodium": 150,
+        "nova_group": 1
+    },
+    {
+        "product_name": "Health-Ade Chia",
+        "calories": 80,
+        "fats": 3,
+        "sodium": 30,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Fruit-Infused Water (Homemade)",
+        "calories": 0,
+        "fats": 0,
+        "sodium": 0,
+        "nova_group": 1
+    }
+    ],
+    "En:snacks": [
+      {
+        "product_name": "Baked Potato Chips",
+        "calories": 120,
+        "fats": 4,
+        "sodium": 0.15,
+        "nova_group": 2
+      },
+      {
+        "product_name": "Air-popped Popcorn",
+        "calories": 31,
+        "fats": 0.4,
+        "sodium": 0.002,
+        "nova_group": 1
+      },
+      {
+        "product_name": "Vegetable Chips",
+        "brand": "Terra Chips",
+        "calories": 130,
+        "fats": 7,
+        "sodium": 150,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Nut Butter Packs",
+        "brand": "Justin’s Almond Butter",
+        "calories": 200,
+        "fats": 18,
+        "sodium": 0,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Popcorn",
+        "brand": "Angie's Boomchickapop",
+        "calories": 70,
+        "fats": 3.5,
+        "sodium": 150,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Fruit & Nut Bars",
+        "brand": "Larabar",
+        "calories": 200,
+        "fats": 9,
+        "sodium": 5,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Edamame Snacks",
+        "brand": "Edamame Crunch",
+        "calories": 120,
+        "fats": 5,
+        "sodium": 100,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Rice Cakes",
+        "brand": "Quaker Rice Cakes",
+        "calories": 35,
+        "fats": 0.5,
+        "sodium": 0,
+        "nova_group": 1
+    },
+    {
+        "product_name": "Seed-Based Bars",
+        "brand": "RXBAR",
+        "calories": 210,
+        "fats": 9,
+        "sodium": 200,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Crispy Lentil Snacks",
+        "brand": "The Good Bean",
+        "calories": 130,
+        "fats": 5,
+        "sodium": 120,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Nut Mixes",
+        "brand": "Nature Valley Nut Crunch",
+        "calories": 190,
+        "fats": 12,
+        "sodium": 95,
+        "nova_group": 2
+    }
+    ],
+    "En:dairies": [
+      {
+        "product_name": "Skim Milk",
+        "calories": 35,
+        "fats": 0.1,
+        "sodium": 0.05,
+        "nova_group": 1
+      },
+      {
+        "product_name": "Greek Yogurt (Non-fat)",
+        "calories": 59,
+        "fats": 0.4,
+        "sodium": 0.06,
+        "nova_group": 2
+      }
+    ],
+    "En:biscuits": [
+      {
+        "product_name": "Whole Wheat Digestive Biscuits",
+        "calories": 58,
+        "fats": 2.3,
+        "sodium": 0.12,
+        "nova_group": 2
+      }
+    ],
+    "En:spreads": [
+      {
+        "product_name": "Peanut Butter (No added sugar)",
+        "calories": 188,
+        "fats": 16,
+        "sodium": 0.05,
+        "nova_group": 2
+      }
+    ],
+    "En:chocolates": [
+      {
+        "product_name": "Dark Chocolate (70%)",
+        "calories": 170,
+        "fats": 12,
+        "sodium": 0.001,
+        "nova_group": 2
+      }
+    ],
+    "En:noodles": [
+      {
+        "product_name": "Whole Wheat Noodles",
+        "calories": 220,
+        "fats": 2,
+        "sodium": 0.1,
+        "nova_group": 2
+      }
+    ],
+    "En:carbonated_drinks": [
+      {
+        "product_name": "Sparkling Water",
+        "calories": 0,
+        "fats": 0,
+        "sodium": 0.001,
+        "nova_group": 1
+      }
+    ],
+    "En:plant-based-foods-and-beverages": [{
+      "product_name": "RXBAR",
+      "protien":12,
+      "calories": 50,
+      "fats": "-",
+      "sodium": 0.001,
+      "nova_group": 1
+    },
+    {
+      "product_name": "Harvest Snaps",
+      
+      "calories": 50,
+      "fats": "-",
+      "sodium": 0.001,
+      "nova_group": 1
+    },
+    {
+      "product_name": "Bare Snacks Apple Chips",
+      "calories": 100,
+      "fats": 0,
+      "sodium": 5,
+      "nova_group": 2
+  },
+  {
+      "product_name": "Rhythm Superfoods Kale Chips",
+      "calories": 120,
+      "fats": 6,
+      "sodium": 150,
+      "nova_group": 2
+  },
+  {
+      "product_name": "Beanfields Bean Chips",
+      "calories": 130,
+      "fats": 6,
+      "sodium": 120,
+      "nova_group": 2
+  },
+  {
+    "product_name": "Roasted Chickpeas",
+    "brand": "Biena Snacks",
+    "calories": 120,
+    "fats": 3,
+    "sodium": 200,
+    "nova_group": 2
+},
+{
+    "product_name": "Vegetable Chips",
+    "brand": "Terra Chips",
+    "calories": 130,
+    "fats": 7,
+    "sodium": 150,
+    "nova_group": 2
+},
+{
+    "product_name": "Nut Butter Packs",
+    "brand": "Justin’s Almond Butter",
+    "calories": 200,
+    "fats": 18,
+    "sodium": 0,
+    "nova_group": 2
+},
+{
+    "product_name": "Popcorn",
+    "brand": "Angie's Boomchickapop",
+    "calories": 70,
+    "fats": 3.5,
+    "sodium": 150,
+    "nova_group": 2
+},
+{
+    "product_name": "Fruit & Nut Bars",
+    "brand": "Larabar",
+    "calories": 200,
+    "fats": 9,
+    "sodium": 5,
+    "nova_group": 2
+},
+{
+    "product_name": "Edamame Snacks",
+    "brand": "Edamame Crunch",
+    "calories": 120,
+    "fats": 5,
+    "sodium": 100,
+    "nova_group": 2
+},
+{
+    "product_name": "Rice Cakes",
+    "brand": "Quaker Rice Cakes",
+    "calories": 35,
+    "fats": 0.5,
+    "sodium": 0,
+    "nova_group": 1
+},
+{
+    "product_name": "Seed-Based Bars",
+    "brand": "RXBAR",
+    "calories": 210,
+    "fats": 9,
+    "sodium": 200,
+    "nova_group": 2
+},
+{
+    "product_name": "Crispy Lentil Snacks",
+    "brand": "The Good Bean",
+    "calories": 130,
+    "fats": 5,
+    "sodium": 120,
+    "nova_group": 2
+},
+{
+    "product_name": "Nut Mixes",
+    "brand": "Nature Valley Nut Crunch",
+    "calories": 190,
+    "fats": 12,
+    "sodium": 95,
+    "nova_group": 2
+},
+  {
+    "product_name": "Oat Milk (Unsweetened)",
+    "calories": 30,
+    "fats": 1.5,
+    "sodium": 120,
+    "nova_group": 1
+},
+{
+    "product_name": "Almond Milk (Unsweetened)",
+    "calories": 30,
+    "fats": 2.5,
+    "sodium": 150,
+    "nova_group": 1
+},
+{
+    "product_name": "Hemp Milk",
+    "calories": 60,
+    "fats": 4.5,
+    "sodium": 150,
+    "nova_group": 1
+},
+{
+    "product_name": "Soy Milk (Unsweetened)",
+    "calories": 80,
+    "fats": 4,
+    "sodium": 100,
+    "nova_group": 1
+}
+    
+
+  ],
+  "En:desserts":[
+    {
+        "product_name": "Halo Top (Vanilla Bean)",
+        "calories": 70,
+        "fats": 2,
+        "sodium": 65,
+        "nova_group": 3
+    },
+    {
+        "product_name": "So Delicious Dairy Free Coconutmilk Ice Cream",
+        "calories": 120,
+        "fats": 7,
+        "sodium": 35,
+        "nova_group": 3
+    },
+    {
+        "product_name": "Yasso Greek Yogurt Bars",
+        "calories": 100,
+        "fats": 0.5,
+        "sodium": 45,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Arctic Zero Non-Dairy Frozen Dessert",
+        "calories": 160,
+        "fats": 2,
+        "sodium": 125,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Enlightened Keto Ice Cream",
+        "calories": 180,
+        "fats": 14,
+        "sodium": 80,
+        "nova_group": 3
+    },
+    {
+        "product_name": "Cado Avocado Ice Cream",
+        "calories": 170,
+        "fats": 12,
+        "sodium": 50,
+        "nova_group": 3
+    },
+    {
+        "product_name": "Luna & Larry’s Coconut Bliss Ice Cream",
+        "calories": 120,
+        "fats": 6,
+        "sodium": 25,
+        "nova_group": 2
+    },
+    {
+        "product_name": "Simple Mills Almond Flour Cookies",
+        "calories": 150,
+        "fats": 8,
+        "sodium": 115,
+        "nova_group": 3
+    },
+    {
+        "product_name": "The Complete Cookie (Lenny & Larry’s)",
+        "calories": 180,
+        "fats": 6,
+        "sodium": 220,
+        "nova_group": 3
+    },
+    {
+        "product_name": "Healthy Choice Fudge Bars",
+        "calories": 90,
+        "fats": 1,
+        "sodium": 55,
+        "nova_group": 3
+    }
+]
+ 
+  }
+  
+  
